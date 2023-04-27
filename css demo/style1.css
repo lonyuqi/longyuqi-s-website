@@ -1,0 +1,31 @@
+html{
+    /*font-size: 24pt;*/
+}
+
+body {
+    /*background-color: rgb(193, 255, 117);*/
+    width: 800px;
+    font-size: 24pt;
+}
+
+article{
+    font-size: 24pt;
+}
+
+h1{
+    font-size: 40pt;
+    font-family: 'Times New Roman', serif;
+}
+
+
+p:hover {
+    color: blueviolet;
+    background-color: aqua;
+    
+}
+
+
+
+a{
+    color: inherit;
+}

@@ -1,0 +1,27 @@
+h1{
+font-size: 100pt;
+color: deeppink;
+font-family: 'Times New Roman', serif;
+}
+
+h1 :hover{
+    background-color: aqua;
+}
+
+h2:hover{
+    background-color: chartreuse;
+    font-size: 40pt;
+    }
+
+h3{
+line-height: 0.1;
+text-decoration: underline;
+color: rgb(255, 221, 239);
+}
+
+p{
+font-size: 30pt;
+color: deeppink;
+width: 850px;
+}
+
